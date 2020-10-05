@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-  float x,y,z;
+ double  x,y,z;
   cout<<"Enter two numbers: ";
   cin>>x>>y;
   cout<<"The sum of "<<x<<" and "<<y<<" is "<<x+y<<endl;
